@@ -30,6 +30,7 @@ class Filpkart extends StatelessWidget {
                       ),
                     ),
                     Text("usb fan Usb gadget"),
+                    Text("usb fan Usb gadget"),
                     Text(
                       "Buy now",
                       style: TextStyle(color: Colors.green),
